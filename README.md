@@ -1,3 +1,35 @@
+# Car Showcase Website
+
+This project is a **Modern Next.js 14 Application** designed to showcase various car types, displaying comprehensive information about each model in a well-organized format. The website provides users with advanced filtering options and pagination support for an enhanced browsing experience.
+
+## Key Features
+- **Car Information Display**: Detailed view of car types with comprehensive specs.
+- **Advanced Filtering**: Search and filter cars based on various criteria like make, model, year, and price.
+- **Pagination**: Smooth pagination to navigate through large data sets.
+- **Responsive Design**: Fully responsive layout built with **Tailwind CSS**, ensuring seamless performance across devices.
+
+## Tech Stack
+- **Next.js 14**: For server-side rendering (SSR) and static site generation (SSG) to optimize the performance and SEO of the application.
+- **React**: Front-end framework for building reusable and interactive UI components.
+- **TypeScript**: Strongly typed language for scalability and reducing runtime errors.
+- **Tailwind CSS**: Utility-first CSS framework for creating custom designs without writing extensive CSS.
+- **API Integration**: Fetch car data dynamically from an external API or database.
+
+## Getting Started
+
+### Prerequisites
+Before you begin, ensure you have met the following requirements:
+- Node.js installed (v14+)
+- npm or yarn package manager installed
+
+### Installation
+
+1. Clone the repository:
+   ```bash
+   git clone https://github.com/yourusername/car-showcase.git
+
+
+
 This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
 
 ## Getting Started
